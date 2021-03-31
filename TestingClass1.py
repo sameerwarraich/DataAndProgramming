@@ -9,6 +9,4 @@ print("Sameer Warraich")
 
 print("Hello")
 
-x = 10
-
-print(x*2)
+print("no more math")
